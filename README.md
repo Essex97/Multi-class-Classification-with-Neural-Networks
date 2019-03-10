@@ -1,4 +1,5 @@
 #  INF131: The case of flight passengers prediction
+### Link of the competition <https://www.kaggle.com/c/inf131-data-mining/leaderboard>
 
 ### Build a classifier to predict number of passengers in flights
 
