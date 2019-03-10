@@ -36,4 +36,4 @@
 <p> Η μεταβλητή `PAX` λείπει από το test set, καθώς πρόκειται για την μεταβλητή που πρέπει να προβλέψουμε στα πλαίσια της παρούσας εργασίας.</p>
 
 Our model:<br/>
-![alt text](https://github.com/Essex97/Multi-class-Classification-with-Neural-Networks/mlp.png "Model")
+![Model](mlp.png)
